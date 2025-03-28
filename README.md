@@ -10,7 +10,7 @@ Features
 ✅ Play/Pause functionality with a timer
 
 Screenshot of output: 
-
+![Image](https://github.com/user-attachments/assets/217ceead-bd48-49d3-b948-0477a810fc14)
 
 Tech Stack
 React.js
